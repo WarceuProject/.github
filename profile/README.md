@@ -66,7 +66,7 @@
   <tr> 
     <td colspan="2" align="center"><!--
       -->
-      <h2>Language Favorit</h2>
+      <h2>Favorit</h2>
       
         
   <img width="900" height="1" alt="">
