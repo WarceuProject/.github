@@ -1,3 +1,4 @@
+<link href="https://github.com/WarceuProject/.github/blob/master/profile/main.css">
 <h1 align="center">Welcome to <a href="https://warceuproject.dev">Warceu Project Dev</a></h1>
 
 <img src="https://camo.githubusercontent.com/ef2861531dadf7d6d23c54046de4f7a339adbf54690a8ebb928a3fb36b4bf061/68747470733a2f2f74656c656772612e70682f66696c652f3335386364393534323330656536653162393238642e706e67">
@@ -62,13 +63,45 @@
   <tr>
     <td><code>🌐 <a href="https://warceuproject.dev">Site</a></code> <code>👥 <a href="https://github.com/WarceuProject">Organizations</a></code> <code>📓 <a href="https://github.com/orgs/WarceuProject/repositories">Repositories</a></code></td>
   </tr> 
-  <tr>
-    <td colspan="2" align="center">
-      <details open><summary>👥 <b>People</b></summary><img border-radius="100" src="https://avatars.githubusercontent.com/u/83586926?s=96&v=4"></details>
-      <details><summary>Related to a repository</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.people.repository.svg" alt=""></details>
-        <img width="900" height="1" alt=""></td>
+  <tr> 
+    <td colspan="2" align="center"><!--
+      -->
+      <h2>Language Favorit</h2>
       
+        
+  <img width="900" height="1" alt="">
+          <div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+          </div>
+</td>
   
   </tr>
+
 </table>
+
+
 <!--/header-->
+
+
+
+<hr>
+<a href="https://paypal.me/yagamiid"><img src="https://img.shields.io/badge/Paypal-blue?logo=Paypal&logoColor=Brightblue&labelColor=white"></a>
+<img src="https://img.shields.io/badge/BTC-yellow?logo=Bitcoin&logoColor=Brightblue&labelColor=white&label=15PgLTco7eBqFyCMy97Tm9wKKnYqQKsfNX">
