@@ -1,7 +1,7 @@
 <link href="https://github.com/WarceuProject/.github/blob/master/profile/main.css">
 <h1 align="center">Welcome to <a href="https://warceuproject.dev">Warceu Project Dev</a></h1>
 
-<img src="https://camo.githubusercontent.com/ef2861531dadf7d6d23c54046de4f7a339adbf54690a8ebb928a3fb36b4bf061/68747470733a2f2f74656c656772612e70682f66696c652f3335386364393534323330656536653162393238642e706e67">
+<img src="https://github.com/WarceuProject/.github/blob/master/profile/img/WarceuProjectDev.png">
 
 <br clear="both">
 
