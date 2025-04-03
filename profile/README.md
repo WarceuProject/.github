@@ -1,5 +1,5 @@
 <link href="https://github.com/WarceuProject/.github/blob/master/profile/main.css">
-<h1 align="center">Welcome to <a href="https://warceuproject.dev">Warceu Project Dev</a></h1>
+<h1 align="center">Welcome to <a href="https://warceuproject.org">Warceu Project Dev</a></h1>
 
 <img src="https://github.com/WarceuProject/.github/blob/master/profile/img/WarceuProjectDev.png">
 
