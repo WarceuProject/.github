@@ -98,6 +98,51 @@
 </table>
 
 
+<div align="center">
+  <a href="https://stardev.io/developers/WarceuProject">
+    <img alt="Check out WarceuProject's profile on stardev.io" src="https://stardev.io/developers/WarceuProject/badge/languages/global.svg" />
+  </a>
+  <br />
+  <strong>Warceu Project Community</strong>
+</div>
+
+<h2 align="center">👥 Core Team</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://stardev.io/developers/synnaulaid">
+        <img alt="Check out synnaulaid's profile on stardev.io" src="https://stardev.io/developers/synnaulaid/badge/languages/global.svg" />
+      </a>
+      <br />
+      <sub><b>Founder & CEO</b></sub>
+    </td>
+    <td align="center" colspan="2">
+      <a href="https://stardev.io/developers/lintanxai">
+        <img alt="Check out lintanxai's profile on stardev.io" src="https://stardev.io/developers/lintanxai/badge/languages/global.svg" />
+      </a>
+      <br />
+      <sub><b>CTO & Head Of Developer</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://stardev.io/developers/Lilith-VnK">
+        <img alt="Check out Lilith-VnK's profile on stardev.io" src="https://stardev.io/developers/Lilith-VnK/badge/languages/global.svg" />
+      </a>
+      <br />
+      <sub><b>Head of Network Gateway Server</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://stardev.io/developers/your-marketing-admin">
+        <img alt="Admin Digital Marketing's profile" src="https://stardev.io/developers/your-marketing-admin/badge/languages/global.svg" />
+      </a>
+      <br />
+      <sub><b>Admin Digital Marketing &<br>Content Publisher</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+
 <!--/header-->
 
 
