@@ -6,27 +6,27 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for your interest in joining the Warceu Project community!
+        Terima kasih sudah ingin bergabung dengan Warceu Project!
 
-        This is not a legal contract — it's a symbolic commitment to the values of openness, decentralization, collective ownership, and anti-exploitation outlined in the [Community Agreement](../KESPAKATAN_KOMUNITAS.md) and [Handshake](../HANDSHAKE.md).
+        Silakan tambahkan komitmen Anda sesuai contoh di bawah dan pastikan username sudah benar.
 
   - type: input
     id: github_username
     attributes:
       label: GitHub Username
-      description: Please enter your GitHub username (e.g., @synnaulaid)
-      placeholder: "@yourusername"
+      description: Username GitHub Anda
+      placeholder: "@namakamu"
     validations:
       required: true
 
   - type: textarea
-    id: agree_statement
+    id: agreement
     attributes:
-      label: Handshake Commitment
-      description: Copy and paste the following and add your name and date:
+      label: Komitmen Anda
+      description: Salin dan sesuaikan contoh berikut:
       placeholder: |
-        I, @yourusername, hereby join the Warceu Project Community Handshake.
+        I, @namakamu, hereby join the Warceu Project Community Handshake.
         I agree to uphold the values described in the Community Agreement and Handshake document.
-        - @yourusername – [Month Year]
+        - @namakamu – July 2025
     validations:
       required: true
