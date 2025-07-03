@@ -1,0 +1,32 @@
+name: 🤝 Join the Handshake
+description: Commit yourself to the Warceu Project Community Handshake
+title: "Join Handshake – @username"
+labels: [handshake, community]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in joining the Warceu Project community!
+
+        This is not a legal contract — it's a symbolic commitment to the values of openness, decentralization, collective ownership, and anti-exploitation outlined in the [Community Agreement](../KESPAKATAN_KOMUNITAS.md) and [Handshake](../HANDSHAKE.md).
+
+  - type: input
+    id: github_username
+    attributes:
+      label: GitHub Username
+      description: Please enter your GitHub username (e.g., @kirasinigami)
+      placeholder: "@yourusername"
+    validations:
+      required: true
+
+  - type: textarea
+    id: agree_statement
+    attributes:
+      label: Handshake Commitment
+      description: Copy and paste the following and add your name and date:
+      placeholder: |
+        I, @yourusername, hereby join the Warceu Project Community Handshake.
+        I agree to uphold the values described in the Community Agreement and Handshake document.
+        - @yourusername – [Month Year]
+    validations:
+      required: true
