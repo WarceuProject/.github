@@ -14,7 +14,7 @@ body:
     id: github_username
     attributes:
       label: GitHub Username
-      description: Please enter your GitHub username (e.g., @kirasinigami)
+      description: Please enter your GitHub username (e.g., @synnaulaid)
       placeholder: "@yourusername"
     validations:
       required: true

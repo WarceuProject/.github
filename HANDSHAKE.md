@@ -12,7 +12,7 @@ This document is a symbolic commitment — not legal — but ethical.
 
 ## SIGNATURES
 
-- @kirasinigami – July 2025
+- @synnaulaid – July 2020
 - [Add your GitHub username here]
 
 *Adding your name means you align with these values.*
