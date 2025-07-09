@@ -115,7 +115,7 @@
         <img alt="Check out synnaulaid's profile on stardev.io" src="https://stardev.io/developers/synnaulaid/badge/languages/global.svg" />
       </a>
       <br />
-      <sub><b>Founder & CEO</b></sub>
+      <sub><b>Initiator</b></sub>
     </td>
     <td align="center" colspan="2">
       <a href="https://stardev.io/developers/lintanxai">
