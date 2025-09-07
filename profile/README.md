@@ -14,10 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=WarceuProject&color=blue&style=flat-square" />
 </div>
 
-
-
-###
-
+> **The Warceu Project** is a non-profit entity, organization, and community engaged in programming, development, and cybersecurity.  
+> Founded on **November 16, 2021**, the Warceu Project is characterized by its **open-source** and **decentralized** nature, with no single ownership, meaning it is shared by all its members.  
+> Each member has **voting rights** in decision-making.  
+> Its ecosystem is built on a **Proof of Work (PoW)** model exclusively for members, fueled by real contributions to the project, participation in discussions, and active involvement in the community.  
+> With these principles, the Warceu Project creates a **transparent, collaborative, and sustainable** environment.
 
 <div class="photos">
 <a href="Github Profile url"> 
