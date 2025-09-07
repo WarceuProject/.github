@@ -56,7 +56,7 @@
 <table>
  
   <tr>
-    <td><code>🌐 <a href="https://warceuproject.or.id/">Site</a></code> <code>👥 <a href="https://github.com/WarceuProject">Organizations</a></code> <code>📓 <a href="https://github.com/orgs/WarceuProject/repositories">Repositories</a></code></td>
+    <td><code>🌐 <a href="https://warceuproject.or.id/">Site</a></code> <code>👥 <a href="https://github.com/WarceuProject">Organizations</a></code> <code>📓 <a href="https://github.com/orgs/WarceuProject/repositories">Repositories</a></code> <code>🧾 <a href="../LICENSE">LICENSE</a></code></td>
   </tr> 
   <tr> 
     <td colspan="2" align="center"><!--
