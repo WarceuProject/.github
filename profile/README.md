@@ -1,19 +1,19 @@
 <link href="https://github.com/WarceuProject/.github/blob/master/profile/main.css">
-<h1 align="center">Welcome to <a href="https://warceuproject.org">Warceu Project Dev</a></h1>
 
-<img src="https://github.com/WarceuProject/.github/blob/master/profile/img/WarceuProjectDev.png">
+<p align="center">
+  <img src="https://github.com/WarceuProject/.github/blob/master/profile/img/logo.png" width="200">
+  <h1 align="center">Warceu Project Community</h1>
+</p>
+<p align="center"><a href="https://warceuproject.or.id/">www.warceuproject.or.id</a></p>
 
 <br clear="both">
 
 <p align="center">Views</p>
 
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/WarceuProject/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=WarceuProject&color=blue&style=flat-square" />
 </div>
 
-###
 
 
 ###
@@ -46,14 +46,8 @@
   <a href="https://facebook.com/warceuproject" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://instagram.com/warceuproject" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
   <a href="https://t.me/warceuproject_dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://chat.whatsapp.com/DUarJnfCpsjECBTrC3ktM1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
@@ -61,12 +55,12 @@
 <table>
  
   <tr>
-    <td><code>🌐 <a href="https://warceuproject.org">Site</a></code> <code>👥 <a href="https://github.com/WarceuProject">Organizations</a></code> <code>📓 <a href="https://github.com/orgs/WarceuProject/repositories">Repositories</a></code></td>
+    <td><code>🌐 <a href="https://warceuproject.or.id/">Site</a></code> <code>👥 <a href="https://github.com/WarceuProject">Organizations</a></code> <code>📓 <a href="https://github.com/orgs/WarceuProject/repositories">Repositories</a></code></td>
   </tr> 
   <tr> 
     <td colspan="2" align="center"><!--
       -->
-      <h2>Favorit</h2>
+      <h2>Development</h2>
       
         
   <img width="900" height="1" alt="">
@@ -124,20 +118,6 @@
       <br />
       <sub><b>CTO & Head Of Developer</b></sub>
     </td>
-    <td align="center">
-      <a href="https://stardev.io/developers/Lilith-VnK">
-        <img alt="Check out Lilith-VnK's profile on stardev.io" src="https://stardev.io/developers/Lilith-VnK/badge/languages/global.svg" />
-      </a>
-      <br />
-      <sub><b>Head of Network Gateway Server</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://stardev.io/developers/your-marketing-admin">
-        <img alt="Admin Digital Marketing's profile" src="https://stardev.io/developers/your-marketing-admin/badge/languages/global.svg" />
-      </a>
-      <br />
-      <sub><b>Admin Digital Marketing &<br>Content Publisher</b></sub>
-    </td>
   </tr>
 </table>
 
@@ -148,5 +128,10 @@
 
 
 <hr>
-<a href="https://paypal.me/yagamiid"><img src="https://img.shields.io/badge/Paypal-blue?logo=Paypal&logoColor=Brightblue&labelColor=white"></a>
-<img src="https://img.shields.io/badge/BTC-yellow?logo=Bitcoin&logoColor=Brightblue&labelColor=white&label=15PgLTco7eBqFyCMy97Tm9wKKnYqQKsfNX">
+
+## 💎 Support & Donate Us
+
+Help this project remain alive with crypto donations:
+
+[![Donate BNB](https://img.shields.io/badge/BNB-yellow?logo=binance&logoColor=white&label=0xB426d941654A3c0B2A23dB35C6b553CCe33fD233&labelColor=black)](https://bscscan.com/address/0xB426d941654A3c0B2A23dB35C6b553CCe33fD233) 
+[![Donate USDT](https://img.shields.io/badge/USDT-green?logo=tether&logoColor=white&label=0xB426d941654A3c0B2A23dB35C6b553CCe33fD233&labelColor=black)](https://bscscan.com/address/0xB426d941654A3c0B2A23dB35C6b553CCe33fD233)
