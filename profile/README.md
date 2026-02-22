@@ -35,8 +35,8 @@ GitHub digunakan sebagai **media kolaborasi dan kontribusi komunitas**.
 Kami tidak menerima push langsung ke repository resmi.
 
 ### Alur Kontribusi:
-1. Fork repository ini
-2. Tambahkan project Anda
+1. Fork repository ini atau fork <a href="https://github.com/WarceuProject/SSO"> REPO INI </a>
+2. Tambahkan project Anda di Branch baru
 3. Buat file: di dir contributor/
    ex: contributor/<username>.md (<a href="../contributor/username_temp.md"> Cek template ini )
 4. Ajukan Pull Request
