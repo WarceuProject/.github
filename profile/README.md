@@ -34,16 +34,7 @@ GitHub digunakan sebagai **media kolaborasi dan kontribusi komunitas**.
 
 Kami tidak menerima push langsung ke repository resmi.
 
-### Alur Kontribusi:
-1. Fork repository ini atau fork <a href="https://github.com/WarceuProject/SSO"> REPO INI </a>
-2. Tambahkan project Anda di Branch baru
-3. Buat file: di dir contributor/
-   ex: contributor/<username>.md (<a href="../contributor/username_temp.md"> Cek template ini )
-4. Ajukan Pull Request
-5. Project akan direview oleh tim Warceu Project
-
-Project yang lolos review akan ditambahkan ke **repository resmi**  
-di **git.warceuproject.or.id**, khusus untuk project yang bersifat serius dan berkelanjutan.
+untuk berkontribusi dan bergabung dengan kami silahkan cek repositori ini untuk panduan nya <a href="https://github.com/WarceuProject/OSS-HUB">disini</a>
 
 ---
 
